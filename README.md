@@ -1,4 +1,8 @@
-# BS_HA_04
+# Shopping list manager
+
+Project made for III. Semester as part of one subject 
+The project consist of having multiple users, multiple shopping lists with the ability to share them and add items
+Look into Insomnia to find documentation for certain endpoints
 
 ## Local Dependencies
 

@@ -1,7 +1,9 @@
 # Shopping list manager
 
-Project made for III. Semester as part of one subject 
+Project made for III. Semester as part of one subject
+
 The project consist of having multiple users, multiple shopping lists with the ability to share them and add items
+
 Look into Insomnia to find documentation for certain endpoints
 
 ## Local Dependencies
@@ -48,12 +50,12 @@ PORT: localhost:4000
 1. Run `npm run test --runInBand --detectOpenHandles`
 2. see results in the terminal
    Output for example:
-   ```
+```
 Test Suites: 1 passed, 1 total
 Tests:       7 passed, 7 total
 Snapshots:   0 total
 Time:        22.241 s, estimated 23 s
-   ```
+```
 
 ## Authors
 
